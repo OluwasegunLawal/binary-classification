@@ -82,4 +82,6 @@ The study uses **JSON-formatted datasets** with product titles, descriptions, sp
 - Mudgal, S., et al. (2018). *Deep Learning for Entity Matching*.  
 - University of Greenwich MSc Dissertation Guidelines (2024).  
 
----
+---Article Publication 
+https://zenodo.org/records/21837871
+
